@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Front-end ,Back-end and DataBase**
+- 💬 Ask me about **Front-end ,Back-end ,Cloud , AI and DataBase**
 
 - 📫 How to reach me **kharroubzakaria32@gmail.com**
 
