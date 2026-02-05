@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-kharroub&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-kharroub" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Front-end ,Back-end and DataBase**
 
